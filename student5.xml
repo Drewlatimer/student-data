@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xml:lang="grc" format="aldt" version="1.5">
+   <date>Tue Sep 09 04:26:32 +0000 2014</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://services.perseids.org/llt/segtok</uri>
+   </annotator>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+   </annotator>
+   <annotator>
+      <short></short>
+      <name></name>
+      <address></address>
+      <uri></uri>
+   </annotator>
+   <sentence id="1"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="ATR" head="4"/>
+      <word id="2" form="μὲν " lemma="μὲν " postag="c--------" relation="COORD" head="0"/>
+      <word id="3" form="μὴ " lemma="μὴ " postag="d-------p" relation="AuxZ" head="4"/>
+      <word id="4" form="ἀγανακτεῖν" lemma="ἀγανακτέω" postag="v--pna---"
+            relation="PRED_CO"
+            head="2"/>
+      <word id="5" form="ὦ" lemma="ὦ" postag="i--------" relation="AuxZ" head="6"/>
+      <word id="6" form="ἄνδρες" lemma="ἀνήρ" postag="n-p---mv-" relation="ExD" head="4"/>
+      <word id="7" form="Ἀθηναῖοι" lemma="Ἀθηναῖος" postag="a-p---mv-" relation="ATR"
+            head="6"/>
+      <word id="8" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="OBJ" head="4"/>
+      <word id="9" form="τούτῳ" lemma="οὗτος" postag="p-s---md-" relation="ATR" head="11"/>
+      <word id="10" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="11"/>
+      <word id="11" form="γεγονότι" lemma="γίγνομαι" postag="v-srpamd-" relation="OBJ"
+            head="8"/>
+      <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="15"/>
+      <word id="13" form="ὅτι" lemma="ὅτι1" postag="d--------" relation="ADV" head="15"/>
+      <word id="14" form="μου" lemma="ἐγώ" postag="p1s---mg-" relation="SBJ" head="15"/>
+      <word id="15" form="κατεψηφίσασθε" lemma="καταψηφίζομαι" postag="v2paim---"
+            relation="OBJ"
+            head="4"/>
+      <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxX" head="15"/>
+      <word id="17" form="ἄλλα" lemma="ἄλλα" postag="c--------" relation="COORD" head="0"/>
+      <word id="18" form="τέ" lemma="τέ" postag="c--------" relation="AuxC" head="21"/>
+      <word id="19" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="21"/>
+      <word id="20" form="πολλὰ" lemma="πολύς" postag="a-p---na-" relation="OBJ" head="21"/>
+      <word id="21" form="συμβάλλεται" lemma="συμβάλλω" postag="v3spie---"
+            relation="PRED_CO"
+            head="17"/>
+      <word id="22" form="," lemma="punc1" postag="u--------" relation="AuxX" head="27"/>
+      <word id="23" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
+      <word id="24" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="27"/>
+      <word id="25" form="ἀνέλπιστόν" lemma="ἀνέλπιστος" postag="a-s---ma-" relation="PNOM"
+            head="27"/>
+      <word id="26" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="ATR" head="25"/>
+      <word id="27" form="γέγονεν" lemma="γίγνομαι" postag="v3sria---" relation="PRED"
+            head="23"/>
+      <word id="28" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="29"/>
+      <word id="29" form="γεγονὸς" lemma="γίγνομαι" postag="v-srpana-" relation="SBJ"
+            head="27"/>
+      <word id="30" form="τοῦτο" lemma="τοῦτο" postag="a-s---nap" relation="ATR" head="29"/>
+      <word id="31" form="," lemma="punc1" postag="u--------" relation="AuxX" head="27"/>
+      <word id="32" form="ἀλλὰ" lemma="ἀλλὰ" postag="c--------" relation="COORD" head="0"/>
+      <word id="33" form="πολὺ" lemma="πολύς" postag="a-s---nn-" relation="ADV" head="35"/>
+      <word id="34" form="μᾶλλον" lemma="μᾶλλον" postag="d--------" relation="ADV"
+            head="35"/>
+      <word id="35" form="θαυμάζω" lemma="θαυμάζω" postag="v1spia---" relation="PRED"
+            head="32"/>
+      <word id="36" form="ἑκατέρων" lemma="ἑκάτερος" postag="a-p---mg-" relation="ATR"
+            head="38"/>
+      <word id="37" form="τῶν" lemma="ὁ" postag="l-p---fg-" relation="ATR" head="38"/>
+      <word id="38" form="ψήφων" lemma="ψῆφος" postag="n-p---fg-" relation="OBJ" head="41"/>
+      <word id="39" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="41"/>
+      <word id="40" form="γεγονότα" lemma="γίγνομαι" postag="v-srpama-" relation="OBJ"
+            head="35"/>
+      <word id="41" form="ἀριθμόν" lemma="ἀριθμός" postag="n-s---ma-" relation="SBJ"
+            head="40"/>
+      <word id="42" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="3"/>
+      <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3"/>
+      <word id="3" form="ᾠόμην" lemma="οἴομαι" postag="v1siie---" relation="PRED" head="0"/>
+      <word id="4" form="ἔγωγε" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="3"/>
+      <word id="5" form="οὕτω" lemma="οὕτως" postag="d--------" relation="ADV" head="8"/>
+      <word id="6" form="παρʼ" lemma="παρʼ" postag="r--------" relation="AuxP" head="8"/>
+      <word id="7" form="ὀλίγον" lemma="ὀλίγος" postag="a-s---ma-" relation="ADV" head="6"/>
+      <word id="8" form="ἔσεσθαι" lemma="εἰμί" postag="v--fnm---" relation="OBJ" head="9"/>
+      <word id="9" form="ἀλλὰ" lemma="ἀλλά" postag="d--------" relation="AuxC" head="3"/>
+      <word id="10" form="παρὰ" lemma="παρά" postag="r--------" relation="AuxP" head="8"/>
+      <word id="11" form="πολύ" lemma="πολύς" postag="a-s---nn-" relation="ADV" head="10"/>
+      <word id="12" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="3"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="νῦν" lemma="νῦν" postag="d--------" relation="ADV" head="14"/>
+      <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="AuxC" head="0"/>
+      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="4"/>
+      <word id="4" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="14"/>
+      <word id="5" form="ἔοικεν" lemma="ἔοικα" postag="v3sria---" relation="ExD" head="4"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="4"/>
+      <word id="7" form="εἰ" lemma="εἰ" postag="c--------" relation="COORD" head="2"/>
+      <word id="8" form="τριάκοντα" lemma="τριάκοντα" postag="a--------" relation="SBJ"
+            head="10"/>
+      <word id="9" form="μόναι" lemma="μόνος" postag="a-s---fd-" relation="ATR" head="8"/>
+      <word id="10" form="μετέπεσον" lemma="μεταπίπτω" postag="v3paia---"
+            relation="PRED_CO"
+            head="7"/>
+      <word id="11" form="τῶν" lemma="ὁ" postag="l-p---fg-" relation="ATR" head="12"/>
+      <word id="12" form="ψήφων" lemma="ψῆφος" postag="n-p---fg-" relation="OBJ" head="8"/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="14"/>
+      <word id="14" form="ἀπεπεφεύγη" lemma="ἀποφεύγω" postag="v1slia---"
+            relation="PRED_CO"
+            head="7"/>
+      <word id="15" form="ἄν" lemma="ἐάν" postag="c--------" relation="AuxY" head="14"/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="4"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="Μέλητον" lemma="Μέλητος" postag="n-s---ma-" relation="OBJ"
+            head="11"/>
+      <word id="2" form="μὲν" lemma="μὲν" postag="c--------" relation="AuxY" head="7"/>
+      <word id="3" form="οὖν" lemma="οὖν" postag="d--------" relation="ADV" head="7"/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="7"/>
+      <word id="5" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="7"/>
+      <word id="6" form="ἐμοὶ" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="7"/>
+      <word id="7" form="δοκῶ" lemma="δοκέω" postag="v1spsa---" relation="ExD" head="11"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="7"/>
+      <word id="9" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
+      <word id="10" form="νῦν" lemma="νῦν" postag="d--------" relation="ADV" head="11"/>
+      <word id="11" form="ἀποπέφευγα" lemma="ἀποφεύγω" postag="v1sria---" relation="PRED"
+            head="9"/>
+      <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="16"/>
+      <word id="13" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="11"/>
+      <word id="14" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="16"/>
+      <word id="15" form="μόνον" lemma="μόνος" postag="a-s---ma-" relation="ADV" head="16"/>
+      <word id="16" form="ἀποπέφευγα" lemma="ἀποφεύγω" postag="v1sria---" relation="PRED"
+            head="13"/>
+      <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="16"/>
+      <word id="18" form="ἀλλὰ" lemma="ἀλλὰ" postag="c--------" relation="AuxC" head="27"/>
+      <word id="19" form="παντὶ" lemma="πᾶς" postag="a-s---md-" relation="ADV" head="18"/>
+      <word id="20" form="δῆλον" lemma="δῆλος" postag="a-s---nn-" relation="ATR" head="21"/>
+      <word id="21" form="τοῦτό" lemma="οὗτος" postag="p-s---nn-" relation="SBJ" head="18"/>
+      <word id="22" form="γε" lemma="γε" postag="d--------" relation="AuxZ" head="18"/>
+      <word id="23" form="," lemma="punc1" postag="u--------" relation="AuxX" head="27"/>
+      <word id="24" form="ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" head="9"/>
+      <word id="25" form="εἰ" lemma="εἰ" postag="c--------" relation="ADV" head="27"/>
+      <word id="26" form="μὴ" lemma="μή" postag="c--------" relation="AuxZ" head="27"/>
+      <word id="27" form="ἀνέβη" lemma="ἀναβαίνω" postag="v3saia---" relation="PRED"
+            head="24"/>
+      <word id="28" form="Ἄνυτος" lemma="Ἄνυτος" postag="n-s---mn-" relation="SBJ"
+            head="31"/>
+      <word id="29" form="καὶ" lemma="καί" postag="c--------" relation="AuxC" head="27"/>
+      <word id="30" form="Λύκων" lemma="Λύκων" postag="n-s---mn-" relation="SBJ" head="31"/>
+      <word id="31" form="κατηγορήσοντες" lemma="κατηγορέω" postag="v-pfpamn-"
+            relation="OBJ"
+            head="29"/>
+      <word id="32" form="ἐμοῦ" lemma="ἐγώ" postag="p1s---mg-" relation="OBJ" head="31"/>
+      <word id="33" form="," lemma="punc1" postag="u--------" relation="AuxX" head="27"/>
+      <word id="34" form="κ-" lemma="κ-" postag="c--------" relation="COORD" head="27"/>
+      <word id="35" form="ἂν" lemma="ἄν2" postag="c--------" relation="" head=""/>
+      <word id="36" form="ὦφλε" lemma="ὀφλισκάνω" postag="v3saia---" relation="PRED"
+            head="34"/>
+      <word id="37" form="χιλίας" lemma="χίλιοι" postag="a-p---fa-" relation="ATR"
+            head="38"/>
+      <word id="38" form="δραχμάς" lemma="δραχμή" postag="n-p---fa-" relation="OBJ"
+            head="36"/>
+      <word id="39" form="," lemma="punc1" postag="u--------" relation="AuxX" head="36"/>
+      <word id="40" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="41"/>
+      <word id="41" form="μεταλαβὼν" lemma="μεταλαμβάνω" postag="v-sapamn-" relation="OBJ"
+            head="36"/>
+      <word id="42" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="44"/>
+      <word id="43" form="πέμπτον" lemma="πέμπτος" postag="a-s---na-" relation="ATR"
+            head="44"/>
+      <word id="44" form="μέρος" lemma="μέρος" postag="n-s---na-" relation="OBJ" head="41"/>
+      <word id="45" form="τῶν" lemma="ὁ" postag="l-p---fg-" relation="ATR" head="46"/>
+      <word id="46" form="ψήφων" lemma="ψῆφος" postag="n-p---fg-" relation="OBJ" head="44"/>
+      <word id="47" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="5"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="τιμᾶται" lemma="τιμάω" postag="v3spie---" relation="PRED" head="2"/>
+      <word id="2" form="δʼ" lemma="δʼ" postag="c--------" relation="COORD" head="0"/>
+      <word id="3" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="1"/>
+      <word id="4" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="ADV" head="1"/>
+      <word id="5" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="6"/>
+      <word id="6" form="ἀνὴρ" lemma="ἀνήρ" postag="n-s---mn-" relation="SBJ" head="1"/>
+      <word id="7" form="θανάτου" lemma="θάνατος" postag="n-s---mg-" relation="OBJ"
+            head="1"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="6"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="εἶεν" lemma="εἶεν" postag="d--------" relation="PRED" head="0"/>
+      <word id="2" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="7"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="6"/>
+      <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="COORD" head="0"/>
+      <word id="3" form="δὴ" lemma="δή" postag="d--------" relation="AuxZ" head="6"/>
+      <word id="4" form="τίνος" lemma="τίς" postag="x-s----g-" relation="OBJ" head="6"/>
+      <word id="5" form="ὑμῖν" lemma="σύ" postag="p2p----d-" relation="OBJ" head="6"/>
+      <word id="6" form="ἀντιτιμήσομαι" lemma="ἀντιτιμάω" postag="v1sfim---"
+            relation="PRED"
+            head="2"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="6"/>
+      <word id="8" form="ὦ" lemma="ὦ" postag="i--------" relation="AuxZ" head="9"/>
+      <word id="9" form="ἄνδρες" lemma="ἀνήρ" postag="n-p---mv-" relation="ExD" head="6"/>
+      <word id="10" form="Ἀθηναῖοι" lemma="Ἀθηναῖος" postag="a-p---mv-" relation="ATR"
+            head="9"/>
+      <word id="11" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="8"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="[ἐστὶν]" lemma="εἰμί" postag="v3spia---" relation="PRED" head="2"/>
+      <word id="2" form="ἢ" lemma="ἤ1" postag="c--------" relation="COORD" head="0"/>
+      <word id="3" form="δῆλον" lemma="δῆλος" postag="a-s---nn-" relation="ADV" head="1"/>
+      <word id="4" form="ὅτι" lemma="ὅτι1" postag="d--------" relation="ADV" head="1"/>
+      <word id="5" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="6"/>
+      <word id="6" form="ἀξίας" lemma="ἀξία" postag="n-s---fg-" relation="OBJ" head="1"/>
+      <word id="7" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="9"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="[ἐστὶν]" lemma="εἰμί" postag="v3spia---" relation="PRED" head="3"/>
+      <word id="2" form="τί" lemma="τις" postag="p-s---nn-" relation="SBJ" head="1"/>
+      <word id="3" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="0"/>
+      <word id="4" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="10"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="τί" lemma="τις" postag="p-s---na-" relation="OBJ" head="3"/>
+      <word id="2" form="ἄξιός" lemma="ἄξιος" postag="a-s---mn-" relation="PNOM" head="3"/>
+      <word id="3" form="εἰμι" lemma="εἰμί" postag="v1spia---" relation="PRED" head="0"/>
+      <word id="4" form="παθεῖν" lemma="πάσχω" postag="v--ana---" relation="OBJ" head="5"/>
+      <word id="5" form="ἢ" lemma="ἤ1" postag="c--------" relation="AuxC" head="3"/>
+      <word id="6" form="ἀποτεῖσαι" lemma="ἀποτίνω" postag="v--ana---" relation="OBJ"
+            head="5"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head=""/>
+      <word id="8" form="ὅ" lemma="ὁ" postag="l-s---mn-" relation="SBJ" head="10"/>
+      <word id="9" form="τι" lemma="ὅτι2" postag="c--------" relation="OBJ" head="10"/>
+      <word id="10" form="μαθὼν" lemma="μαθὼν" postag="n-p---ng-" relation="ADV" head="3"/>
+      <word id="11" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="15"/>
+      <word id="12" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="13"/>
+      <word id="13" form="βίῳ" lemma="βίος" postag="n-s---md-" relation="OBJ" head="11"/>
+      <word id="14" form="οὐχ" lemma="οὐ" postag="d--------" relation="AuxZ" head="16"/>
+      <word id="15" form="ἡσυχίαν" lemma="ἡσυχία" postag="n-s---fa-" relation="OBJ"
+            head="16"/>
+      <word id="16" form="ἦγον" lemma="ἄγω" postag="v1siia---" relation="OBJ" head="18"/>
+      <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="2"/>
+      <word id="18" form="ἀλλʼ" lemma="ἀλλʼ" postag="c--------" relation="COORD" head="3"/>
+      <word id="19" form="ἀμελήσας" lemma="ἀμελέω" postag="v-sapamn-" relation="ADV"
+            head="18"/>
+      <word id="20" form="ὧνπερ" lemma="ὅς" postag="p-p---mg-" relation="OBJ" head="19"/>
+      <word id="21" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="22"/>
+      <word id="22" form="πολλοί" lemma="πολύς" postag="a-p---mn-" relation="SBJ" head="19"/>
+      <word id="23" form="," lemma="punc1" postag="u--------" relation="AuxX" head="2"/>
+      <word id="24" form="χρηματισμοῦ" lemma="χρηματισμός" postag="n-s---mg-"
+            relation="OBJ"
+            head="26"/>
+      <word id="25" form="τε" lemma="τε" postag="d--------" relation="AuxY" head="26"/>
+      <word id="26" form="καὶ" lemma="καί" postag="c--------" relation="AuxC" head="20"/>
+      <word id="27" form="οἰκονομίας" lemma="οἰκονομία" postag="n-s---fg-" relation="OBJ"
+            head="28"/>
+      <word id="28" form="καὶ" lemma="καί" postag="c--------" relation="AuxC" head="20"/>
+      <word id="29" form="στρατηγιῶν" lemma="στρατηγία" postag="n-p---fg-" relation="OBJ"
+            head="30"/>
+      <word id="30" form="καὶ" lemma="καί" postag="c--------" relation="AuxC" head="20"/>
+      <word id="31" form="δημηγοριῶν" lemma="δημηγορία" postag="n-p---fg-" relation="OBJ"
+            head="32"/>
+      <word id="32" form="καὶ" lemma="καί" postag="c--------" relation="AuxC" head="20"/>
+      <word id="33" form="τῶν" lemma="ὁ" postag="l-p---fg-" relation="ATR" head="35"/>
+      <word id="34" form="ἄλλων" lemma="ἄλλος" postag="p-p---fg-" relation="ATR" head="35"/>
+      <word id="35" form="ἀρχῶν" lemma="ἀρχή" postag="n-p---fg-" relation="OBJ" head="32"/>
+      <word id="36" form="καὶ" lemma="καί" postag="c--------" relation="AuxC" head="20"/>
+      <word id="37" form="συνωμοσιῶν" lemma="συνωμοσία" postag="n-p---fg-" relation="OBJ"
+            head="36"/>
+      <word id="38" form="καὶ" lemma="καί" postag="c--------" relation="AuxC" head="20"/>
+      <word id="39" form="στάσεων" lemma="στάσις" postag="n-p---fg-" relation="OBJ"
+            head="38"/>
+      <word id="40" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="44"/>
+      <word id="41" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="44"/>
+      <word id="42" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="43"/>
+      <word id="43" form="πόλει" lemma="πόλις" postag="n-s---fd-" relation="OBJ" head="41"/>
+      <word id="44" form="γιγνομένων" lemma="γίγνομαι" postag="v-pppemg-" relation="PRED"
+            head="39"/>
+      <word id="45" form="," lemma="punc1" postag="u--------" relation="AuxX" head="41"/>
+      <word id="46" form="ἡγησάμενος" lemma="ἡγέομαι" postag="v-sapmmn-" relation="ADV"
+            head="3"/>
+      <word id="47" form="ἐμαυτὸν" lemma="ἐμαυτοῦ" postag="p-s---ma-" relation="SBJ"
+            head="51"/>
+      <word id="48" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="49"/>
+      <word id="49" form="ὄντι" lemma="εἰμί" postag="v-sppamd-" relation="ADV" head="46"/>
+      <word id="50" form="ἐπιεικέστερον" lemma="ἐπιεικής" postag="a-s---mac"
+            relation="PNOM"
+            head="51"/>
+      <word id="51" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ" head="52"/>
+      <word id="52" form="ἢ" lemma="ἤ1" postag="c--------" relation="AuxC" head="46"/>
+      <word id="53" form="ὥστε" lemma="ὥστε" postag="d--------" relation="ADV" head="57"/>
+      <word id="54" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="56"/>
+      <word id="55" form="ταῦτʼ" lemma="ταῦτʼ" postag="a-s---fdp" relation="OBJ" head="54"/>
+      <word id="56" form="ἰόντα" lemma="εἰμί" postag="v-sppama-" relation="SBJ" head="57"/>
+      <word id="57" form="σῴζεσθαι" lemma="σώζω" postag="v--pne---" relation="OBJ"
+            head="52"/>
+   </sentence>
+   <sentence id="11"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="," lemma="punc1" postag="u--------" relation="AuxX" head=""/>
+      <word id="2" form="ἐνταῦθα" lemma="ἐνταῦθα" postag="d--------" relation="ADV"
+            head="5"/>
+      <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxZ" head="5"/>
+      <word id="4" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="5"/>
+      <word id="5" form="ᾖα" lemma="εἶμι" postag="v1siia---" relation="PRED" head="0"/>
+      <word id="6" form="οἷ" lemma="ἕ" postag="p-s---md-" relation="AuxP" head="2"/>
+      <word id="7" form="ἐλθὼν" lemma="ἔρχομαι" postag="v-sapamn-" relation="ADV" head="6"/>
+      <word id="8" form="μήτε" lemma="μή" postag="c--------" relation="COORD" head="13"/>
+      <word id="9" form="ὑμῖν" lemma="σύ" postag="p2p----d-" relation="OBJ" head="5"/>
+      <word id="10" form="μή" lemma="μή" postag="c--------" relation="ATR" head="13"/>
+      <word id="11" form="-τε" lemma="-τε" postag="c--------" relation="COORD" head="10"/>
+      <word id="12" form="ἐμαυτῷ" lemma="ἐμαυτοῦ" postag="p-s---md-" relation="OBJ"
+            head="13"/>
+      <word id="13" form="ἔμελλον" lemma="μέλλω" postag="v1siia---" relation="OBJ" head="7"/>
+      <word id="14" form="μηδὲν" lemma="μηδείς" postag="p-s---na-" relation="AuxZ"
+            head="13"/>
+      <word id="15" form="ὄφελος" lemma="ὄφελος" postag="n-s---nn-" relation="PNOM"
+            head="16"/>
+      <word id="16" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ" head="13"/>
+      <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="5"/>
+      <word id="18" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="19"/>
+      <word id="19" form="δὲ" lemma="δὲ" postag="c--------" relation="AuxC" head="2"/>
+      <word id="20" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="21"/>
+      <word id="21" form="ἰδίᾳ" lemma="ἴδιος" postag="a-s---fd-" relation="OBJ" head="22"/>
+      <word id="22" form="ἕκαστον" lemma="ἕκαστος" postag="a-s---ma-" relation="ADV"
+            head="23"/>
+      <word id="23" form="ἰὼν" lemma="εἶμι" postag="v-sppamn-" relation="OBJ" head="18"/>
+      <word id="24" form="εὐεργετεῖν" lemma="εὐεργετέω" postag="v--pna---" relation="OBJ"
+            head="23"/>
+      <word id="25" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="27"/>
+      <word id="26" form="μεγίστην" lemma="μέγας" postag="a-s---fa-" relation="ATR"
+            head="27"/>
+      <word id="27" form="εὐεργεσίαν" lemma="εὐεργεσία" postag="n-s---fa-" relation="OBJ"
+            head="24"/>
+   </sentence>
+   <sentence id="12"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="2" form="ὡς" lemma="ὡς" postag="c--------" relation="ATR" head="4"/>
+      <word id="3" form="ἐγώ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="4"/>
+      <word id="4" form="φημι" lemma="φημί" postag="v1spia---" relation="ExD" head="7"/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="6" form="ἐνταῦθα" lemma="ἐνταῦθα" postag="d--------" relation="ADV"
+            head="7"/>
+      <word id="7" form="ᾖα" lemma="εἶμι" postag="v1siia---" relation="PRED" head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="ἐπιχειρῶν" lemma="ἐπιχειρέω" postag="v-sppamn-" relation="ADV"
+            head="7"/>
+      <word id="10" form="ἕκαστον" lemma="ἕκαστος" postag="a-s---ma-" relation="OBJ"
+            head="12"/>
+      <word id="11" form="ὑμῶν" lemma="ὑμός" postag="a-p---mg-" relation="OBJ" head="10"/>
+      <word id="12" form="πείθειν" lemma="πείθω" postag="v--pna---" relation="OBJ" head="9"/>
+      <word id="13" form="μὴ" lemma="μή" postag="c--------" relation="AuxZ" head="19"/>
+      <word id="14" form="πρότερον" lemma="πρότερος" postag="a-s---ma-" relation="COORD"
+            head="12"/>
+      <word id="15" form="μήτε" lemma="μήτε" postag="d--------" relation="AuxZ" head="19"/>
+      <word id="16" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="18"/>
+      <word id="17" form="ἑαυτοῦ" lemma="ἑαυτοῦ" postag="p-s---mg-" relation="OBJ"
+            head="19"/>
+      <word id="18" form="μηδενὸς" lemma="μηδείς" postag="p-s----g-" relation="OBJ"
+            head="17"/>
+      <word id="19" form="ἐπιμελεῖσθαι" lemma="ἐπιμελέομαι" postag="v--pne---"
+            relation="OBJ"
+            head="14"/>
+      <word id="20" form="πρὶν" lemma="πρίν" postag="d--------" relation="COORD" head="12"/>
+      <word id="21" form="ἑαυτοῦ" lemma="ἑαυτοῦ" postag="p-s---mg-" relation="OBJ"
+            head="22"/>
+      <word id="22" form="ἐπιμεληθείη" lemma="ἐπιμελέομαι" postag="v3saoe---"
+            relation="OBJ"
+            head="20"/>
+      <word id="23" form="ὅπως" lemma="ὅπως" postag="c--------" relation="ADV" head="22"/>
+      <word id="24" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxZ" head="23"/>
+      <word id="25" form="βέλτιστος" lemma="βέλτιστος" postag="a-s---mn-" relation="PNOM"
+            head="26"/>
+      <word id="26" form="καὶ" lemma="καί" postag="c--------" relation="AuxC" head="28"/>
+      <word id="27" form="φρονιμώτατος" lemma="φρόνιμος" postag="a-s---mns" relation="PNOM"
+            head="26"/>
+      <word id="28" form="ἔσοιτο" lemma="εἰμί" postag="v3sfom---" relation="OBJ" head="23"/>
+      <word id="29" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="30" form="μήτε" lemma="μήτε" postag="d--------" relation="COORD" head="12"/>
+      <word id="31" form="τῶν" lemma="ὁ" postag="l-p---fg-" relation="OBJ" head="34"/>
+      <word id="32" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="33"/>
+      <word id="33" form="πόλεως" lemma="πόλις" postag="n-s---fg-" relation="OBJ" head="34"/>
+      <word id="34" form="ἐπιμελεῖσθαι" lemma="ἐπιμελέομαι" postag="v--pne---"
+            relation="OBJ"
+            head="30"/>
+      <word id="35" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="36" form="πρὶν" lemma="πρίν" postag="d--------" relation="COORD" head="12"/>
+      <word id="37" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="ATR" head="39"/>
+      <word id="38" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="39"/>
+      <word id="39" form="πόλεως" lemma="πόλις" postag="n-s---fg-" relation="OBJ" head="40"/>
+      <word id="40" form="ἐπιμελεῖσθαι" lemma="ἐπιμελέομαι" postag="v--pne---"
+            relation="OBJ"
+            head="36"/>
+      <word id="41" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="42" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="44"/>
+      <word id="43" form="τε" lemma="τε" postag="d--------" relation="ADV" head="30"/>
+      <word id="44" form="ἄλλων" lemma="ἄλλος" postag="p-p---mg-" relation="OBJ" head="50"/>
+      <word id="45" form="οὕτω" lemma="οὕτως" postag="d--------" relation="ADV" head="50"/>
+      <word id="46" form="κατὰ" lemma="κατά" postag="r--------" relation="AuxP" head="50"/>
+      <word id="47" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="49"/>
+      <word id="48" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="ATR" head="49"/>
+      <word id="49" form="τρόπον" lemma="τρόπος" postag="n-s---ma-" relation="OBJ"
+            head="46"/>
+      <word id="50" form="ἐπιμελεῖσθαι" lemma="ἐπιμελέομαι" postag="v--pne---"
+            relation="OBJ"
+            head="36"/>
+   </sentence>
+   <sentence id="13"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="τί" lemma="τις" postag="p-s---na-" relation="OBJ" head="3"/>
+      <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="3"/>
+      <word id="3" form="εἰμι" lemma="εἰμί" postag="v1spia---" relation="PRED" head="0"/>
+      <word id="4" form="ἄξιος" lemma="ἄξιος" postag="a-s---mn-" relation="PNOM" head="3"/>
+      <word id="5" form="παθεῖν" lemma="πάσχω" postag="v--ana---" relation="OBJ" head="3"/>
+      <word id="6" form="τοιοῦτος" lemma="τοιοῦτος" postag="p-s---mn-" relation="PNOM"
+            head="7"/>
+      <word id="7" form="ὤν" lemma="εἰμί" postag="v-sppamn-" relation="ADV" head="3"/>
+      <word id="8" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="14"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="[ἐστὶν]" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="2" form="ἀγαθόν" lemma="ἀγαθός" postag="a-s---nn-" relation="PNOM" head="3"/>
+      <word id="3" form="τι" lemma="τις" postag="p-s---nn-" relation="SBJ" head="1"/>
+      <word id="4" form="," lemma="punc1" postag="punc1" relation="AuxX" head="6"/>
+      <word id="5" form="ὦ" lemma="ὦ" postag="i--------" relation="AuxZ" head="6"/>
+      <word id="6" form="ἄνδρες" lemma="ἀνήρ" postag="n-p---mv-" relation="ExD" head="1"/>
+      <word id="7" form="Ἀθηναῖοι" lemma="Ἀθηναῖος" postag="a-p---mv-" relation="ATR"
+            head="6"/>
+      <word id="8" form="," lemma="punc1" postag="punc1" relation="AuxX" head="6"/>
+      <word id="9" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="1"/>
+      <word id="10" form="δεῖ" lemma="δέω2" postag="v3spia---" relation="PRED" head="9"/>
+      <word id="11" form="γε" lemma="γε" postag="d--------" relation="AuxZ" head="10"/>
+      <word id="12" form="κατὰ" lemma="κατά" postag="r--------" relation="AuxC" head="17"/>
+      <word id="13" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="14"/>
+      <word id="14" form="ἀξίαν" lemma="ἀξία" postag="n-s---fa-" relation="OBJ" head="12"/>
+      <word id="15" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="16"/>
+      <word id="16" form="ἀληθείᾳ" lemma="ἀλήθεια" postag="n-s---fd-" relation="ADV"
+            head="17"/>
+      <word id="17" form="τιμᾶσθαι" lemma="τιμάω" postag="v--pne---" relation="OBJ"
+            head="10"/>
+      <word id="18" form="·" lemma="punc1" postag="punc1" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="15"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
+      <word id="2" form="ταῦτά" lemma="οὗτος" postag="p-p---nn-" relation="SBJ" head="8"/>
+      <word id="3" form="γε" lemma="γε" postag="d--------" relation="AuxY" head="8"/>
+      <word id="4" form="ἀγαθὸν" lemma="ἀγαθός" postag="a-s---ma-" relation="PNOM" head="8"/>
+      <word id="5" form="τοιοῦτον" lemma="τοιοῦτος" postag="p-s---ma-" relation="ATR"
+            head="4"/>
+      <word id="6" form="ὅτι" lemma="ὅτι1" postag="d--------" relation="ADV" head="8"/>
+      <word id="7" form="ἂν" lemma="ἄν2" postag="c--------" relation="ADV" head="8"/>
+      <word id="8" form="πρέποι" lemma="πρέπω" postag="v3spoa---" relation="PRED" head="1"/>
+      <word id="9" form="ἐμοί" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="8"/>
+      <word id="10" form="." lemma="punc1" postag="punc1" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="16"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="τί" lemma="τίς" postag="x-s---nn-" relation="SBJ" head="3"/>
+      <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="3"/>
+      <word id="3" form="πρέπει" lemma="πρέπω" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="4" form="ἀνδρὶ" lemma="ἀνήρ" postag="n-s---md-" relation="OBJ" head="3"/>
+      <word id="5" form="πένητι" lemma="πένης" postag="n-s---md-" relation="ATR" head="4"/>
+      <word id="6" form="εὐεργέτῃ" lemma="εὐεργέτης" postag="n-s---md-" relation="ATR"
+            head="4"/>
+      <word id="7" form="δεομένῳ" lemma="δέω2" postag="v-sppemd-" relation="ATR" head="4"/>
+      <word id="8" form="ἄγειν" lemma="ἄγω" postag="v--pna---" relation="OBJ" head="7"/>
+      <word id="9" form="σχολὴν" lemma="σχολή" postag="n-s---fa-" relation="OBJ" head="8"/>
+      <word id="10" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="8"/>
+      <word id="11" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="13"/>
+      <word id="12" form="ὑμετέρᾳ" lemma="ὑμέτερος" postag="a-s---fd-" relation="ATR"
+            head="13"/>
+      <word id="13" form="παρακελεύσει" lemma="παρακέλευσις" postag="n-s---fd-"
+            relation="ADV"
+            head="10"/>
+      <word id="14" form=";" lemma="punc1" postag="punc1" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="17"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="10"/>
+      <word id="2" form="ἔσθʼ" lemma="ἔσθʼ" postag="c--------" relation="ADV" head="10"/>
+      <word id="3" form="ὅτι" lemma="ὅτι1" postag="d--------" relation="ATR" head="4"/>
+      <word id="4" form="μᾶλλον" lemma="μᾶλλον" postag="d--------" relation="ADV" head="2"/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="7"/>
+      <word id="6" form="ὦ" lemma="ὦ" postag="i--------" relation="AuxZ" head="7"/>
+      <word id="7" form="ἄνδρες" lemma="ἀνήρ" postag="n-p---mv-" relation="ExD" head="10"/>
+      <word id="8" form="Ἀθηναῖοι" lemma="Ἀθηναῖος" postag="a-p---mv-" relation="ATR"
+            head="7"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="7"/>
+      <word id="10" form="πρέπει" lemma="πρέπω" postag="v3spia---" relation="PRED_CO"
+            head="24"/>
+      <word id="11" form="οὕτως" lemma="οὕτως" postag="d--------" relation="ADV" head="10"/>
+      <word id="12" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="10"/>
+      <word id="13" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="15"/>
+      <word id="14" form="τοιοῦτον" lemma="τοιοῦτος" postag="p-s---ma-" relation="ATR"
+            head="15"/>
+      <word id="15" form="ἄνδρα" lemma="ἀνήρ" postag="n-s---ma-" relation="OBJ" head="18"/>
+      <word id="16" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="18"/>
+      <word id="17" form="πρυτανείῳ" lemma="πρυτάνειος" postag="a-s---nd-" relation="ADV"
+            head="16"/>
+      <word id="18" form="σιτεῖσθαι" lemma="σιτέω" postag="v--pne---" relation="OBJ"
+            head="12"/>
+      <word id="19" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="20" form="πολύ" lemma="πολύς" postag="a-s---nn-" relation="ATR" head="22"/>
+      <word id="21" form="γε" lemma="γε" postag="d--------" relation="ADV" head="10"/>
+      <word id="22" form="μᾶλλον" lemma="μᾶλλον" postag="d--------" relation="ADV"
+            head="21"/>
+      <word id="23" form="ἢ" lemma="ἤ1" postag="c--------" relation="AuxC" head="32"/>
+      <word id="24" form="εἴ" lemma="εἰ" postag="c--------" relation="AuxC" head="0"/>
+      <word id="25" form="τις" lemma="τις" postag="p-s---mn-" relation="SBJ" head="32"/>
+      <word id="26" form="ὑμῶν" lemma="ὑμός" postag="a-p---mg-" relation="OBJ" head="25"/>
+      <word id="27" form="ἵππῳ" lemma="ἵππος" postag="n-s---fd-" relation="OBJ" head="23"/>
+      <word id="28" form="ἢ" lemma="ἤ1" postag="c--------" relation="AuxC" head="32"/>
+      <word id="29" form="συνωρίδι" lemma="συνωρίς" postag="n-s---fd-" relation="OBJ"
+            head="28"/>
+      <word id="30" form="ἢ" lemma="ἤ1" postag="c--------" relation="AuxC" head="32"/>
+      <word id="31" form="ζεύγει" lemma="ζεῦγος" postag="n-s---nd-" relation="OBJ"
+            head="30"/>
+      <word id="32" form="νενίκηκεν" lemma="νικάω" postag="v3sria---" relation="PRED_CO"
+            head="24"/>
+      <word id="33" form="Ὀλυμπίασιν" lemma="Ὀλυμπίασιν" postag="n-p---fd-" relation="OBJ"
+            head="32"/>
+      <word id="34" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="18"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="SBJ" head="5"/>
+      <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxZ" head="5"/>
+      <word id="3" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="5"/>
+      <word id="4" form="ὑμᾶς" lemma="σύ" postag="p2p----a-" relation="SBJ" head="7"/>
+      <word id="5" form="ποιεῖ" lemma="ποιέω" postag="v3spia---" relation="PRED_CO"
+            head="14"/>
+      <word id="6" form="εὐδαίμονας" lemma="εὐδαίμων" postag="a-p---ma-" relation="PNOM"
+            head="7"/>
+      <word id="7" form="δοκεῖν" lemma="δοκέω" postag="v--pna---" relation="OCOMP" head="5"/>
+      <word id="8" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ" head="5"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="12"/>
+      <word id="11" form="δὲ" lemma="δέ" postag="d--------" relation="AuxC" head="5"/>
+      <word id="12" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OCOMP" head="11"/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="14" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
+      <word id="15" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="SBJ" head="19"/>
+      <word id="16" form="μὲν" lemma="μέν" postag="d--------" relation="AuxZ" head="19"/>
+      <word id="17" form="τροφῆς" lemma="τροφή" postag="n-s---fg-" relation="OBJ" head="19"/>
+      <word id="18" form="οὐδὲν" lemma="οὐδείς" postag="p-s---na-" relation="ADV" head="19"/>
+      <word id="19" form="δεῖται" lemma="δέω2" postag="v3spie---" relation="PRED_CO"
+            head="22"/>
+      <word id="20" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="21" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="23"/>
+      <word id="22" form="δὲ" lemma="δέ" postag="d--------" relation="COORD" head="14"/>
+      <word id="23" form="δέομαι" lemma="δέω2" postag="v1spie---" relation="PRED_CO"
+            head="22"/>
+      <word id="24" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="19"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="13"/>
+      <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxZ" head="3"/>
+      <word id="3" form="δεῖ" lemma="δέω2" postag="v3spia---" relation="ADV" head="1"/>
+      <word id="4" form="με" lemma="ἐγώ" postag="p1s---ma-" relation="SBJ" head="10"/>
+      <word id="5" form="κατὰ" lemma="κατά" postag="r--------" relation="AuxP" head="10"/>
+      <word id="6" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="7"/>
+      <word id="7" form="δίκαιον" lemma="δίκαιος" postag="a-s---na-" relation="ADV"
+            head="5"/>
+      <word id="8" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="9"/>
+      <word id="9" form="ἀξίας" lemma="ἀξία" postag="n-s---fg-" relation="OBJ" head="7"/>
+      <word id="10" form="τιμᾶσθαι" lemma="τιμάω" postag="v--pne---" relation="OBJ"
+            head="3"/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="12" form="τούτου" lemma="οὗτος" postag="p-s---ng-" relation="OBJ" head="13"/>
+      <word id="13" form="τιμῶμαι" lemma="τμάω" postag="v1spse---" relation="PRED" head="0"/>
+      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="15" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="13"/>
+      <word id="16" form="πρυτανείῳ" lemma="πρυτανεῖον" postag="n-s---nd-" relation="ADV"
+            head="15"/>
+      <word id="17" form="σιτήσεως" lemma="σίτησις" postag="n-s---fg-" relation="OBJ"
+            head="13"/>
+      <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="20"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ἴσως" lemma="ἴσως" postag="d--------" relation="ADV" head="8"/>
+      <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxZ" head="8"/>
+      <word id="3" form="ὑμῖν" lemma="σύ" postag="p2p----d-" relation="OBJ" head="6"/>
+      <word id="4" form="καὶ" lemma="καί" postag="c--------" relation="ADV" head="8"/>
+      <word id="5" form="ταυτὶ" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="6"/>
+      <word id="6" form="λέγων" lemma="λέγω3" postag="v-sppamn-" relation="ADV" head="8"/>
+      <word id="7" form="παραπλησίως" lemma="παραπλησίως" postag="d-------p" relation="ADV"
+            head="8"/>
+      <word id="8" form="δοκῶ" lemma="δοκέω" postag="v1spsa---" relation="PRED" head="0"/>
+      <word id="9" form="λέγειν" lemma="λέγω3" postag="v--pna---" relation="OBJ" head="8"/>
+      <word id="10" form="ὥσπερ" lemma="ὥσπερ" postag="d--------" relation="ADV" head="9"/>
+      <word id="11" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="9"/>
+      <word id="12" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="13"/>
+      <word id="13" form="οἴκτου" lemma="οἶκτος" postag="n-s---mg-" relation="OBJ"
+            head="14"/>
+      <word id="14" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="11"/>
+      <word id="15" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="16"/>
+      <word id="16" form="ἀντιβολήσεως" lemma="ἀντιβολία" postag="n-s---fg-" relation="OBJ"
+            head="14"/>
+      <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="8"/>
+      <word id="18" form="ἀπαυθαδιζόμενος" lemma="ἀπαυθαδίζομαι" postag="v-sppemn-"
+            relation="ADV"
+            head="8"/>
+      <word id="19" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="21"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="SBJ" head="4"/>
+      <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="4"/>
+      <word id="3" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="4"/>
+      <word id="4" form="ἔστιν" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="7"/>
+      <word id="6" form="ὦ" lemma="ὦ" postag="i--------" relation="AuxZ" head="7"/>
+      <word id="7" form="ἄνδρες" lemma="ἀνήρ" postag="n-p---mv-" relation="ExD" head="4"/>
+      <word id="8" form="Ἀθηναῖοι" lemma="Ἀθηναῖος" postag="a-p---mv-" relation="ATR"
+            head="7"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="7"/>
+      <word id="10" form="τοιοῦτον" lemma="τοιοῦτος" postag="p-s---ma-" relation="OCOMP_CO"
+            head="11"/>
+      <word id="11" form="ἀλλὰ" lemma="ἀλλά" postag="d--------" relation="COORD" head="4"/>
+      <word id="12" form="τοιόνδε" lemma="τοιόσδε" postag="p-s---na-" relation="OCOMP_CO"
+            head="11"/>
+      <word id="13" form="μᾶλλον" lemma="μᾶλλον" postag="d--------" relation="ADV" head="4"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="22"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="πέπεισμαι" lemma="πείθω" postag="v1srie---" relation="PRED_CO"
+            head="9"/>
+      <word id="2" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="1"/>
+      <word id="3" form="ἑκὼν" lemma="ἑκών" postag="a-s---mn-" relation="ATR" head="6"/>
+      <word id="4" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ" head="1"/>
+      <word id="5" form="μηδένα" lemma="μηδείς" postag="p-s---ma-" relation="SBJ" head="6"/>
+      <word id="6" form="ἀδικεῖν" lemma="ἀδικέω" postag="v--pna---" relation="OBJ" head="1"/>
+      <word id="7" form="ἀνθρώπων" lemma="ἄνθρωπος" postag="n-p---mg-" relation="OBJ"
+            head="5"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="9"/>
+      <word id="9" form="ἀλλὰ" lemma="ἀλλά" postag="d--------" relation="COORD" head="0"/>
+      <word id="10" form="ὑμᾶς" lemma="σύ" postag="p2p----a-" relation="OBJ" head="13"/>
+      <word id="11" form="τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="OBJ" head="13"/>
+      <word id="12" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="13"/>
+      <word id="13" form="πείθω" lemma="πείθω" postag="v1spia---" relation="PRED_CO"
+            head="9"/>
+      <word id="14" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="23"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ὀλίγον" lemma="ὀλίγος" postag="a-s---ma-" relation="ATR" head="3"/>
+      <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="5"/>
+      <word id="3" form="χρόνον" lemma="χρόνος" postag="n-s---ma-" relation="OBJ" head="5"/>
+      <word id="4" form="ἀλλήλοις" lemma="ἀλλήλων" postag="p-p---md-" relation="OBJ"
+            head="5"/>
+      <word id="5" form="διειλέγμεθα" lemma="διά-λέγω2" postag="v1plie---" relation="PRED"
+            head="0"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="24"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ἐπεί" lemma="ἐπεί" postag="c--------" relation="AuxC" head="0"/>
+      <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="3"/>
+      <word id="3" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="26"/>
+      <word id="4" form="ἐγᾦμαι" lemma="οἴομαι" postag="v1spie---" relation="ExD" head="3"/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="3"/>
+      <word id="6" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="7"/>
+      <word id="7" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="PRED_CO" head="1"/>
+      <word id="8" form="ὑμῖν" lemma="σύ" postag="p2p----d-" relation="OBJ_CO" head="12"/>
+      <word id="9" form="νόμος" lemma="νόμος" postag="n-s---mn-" relation="SBJ" head="7"/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="7"/>
+      <word id="11" form="ὥσπερ" lemma="ὥσπερ" postag="d--------" relation="ADV" head="14"/>
+      <word id="12" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="7"/>
+      <word id="13" form="ἄλλοις" lemma="ἄλλος" postag="p-p---md-" relation="ATR" head="14"/>
+      <word id="14" form="ἀνθρώποις" lemma="ἄνθρωπος" postag="n-p---md-" relation="OBJ_CO"
+            head="12"/>
+      <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="14"/>
+      <word id="16" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="9"/>
+      <word id="17" form="θανάτου" lemma="θάνατος" postag="n-s---mg-" relation="OBJ"
+            head="16"/>
+      <word id="18" form="μὴ" lemma="μή" postag="c--------" relation="AuxZ" head="20"/>
+      <word id="19" form="μίαν" lemma="εἷς" postag="a-s---fa-" relation="ATR" head="20"/>
+      <word id="20" form="ἡμέραν" lemma="ἡμέρα" postag="n-s---fa-" relation="OBJ_CO"
+            head="23"/>
+      <word id="21" form="μόνον" lemma="μόνος" postag="a-s---ma-" relation="ATR" head="22"/>
+      <word id="22" form="κρίνειν" lemma="κρίνω" postag="v--pna---" relation="OBJ" head="9"/>
+      <word id="23" form="ἀλλὰ" lemma="ἀλλά" postag="d--------" relation="COORD" head="22"/>
+      <word id="24" form="πολλάς" lemma="πολύς" postag="a-p---fa-" relation="OBJ_CO"
+            head="23"/>
+      <word id="25" form="," lemma="punc1" postag="u--------" relation="AuxX" head="26"/>
+      <word id="26" form="ἐπείσθητε" lemma="πείθω" postag="v2paip---" relation="PRED_CO"
+            head="1"/>
+      <word id="27" form="ἄν" lemma="ἄν2" postag="c--------" relation="AuxZ" head="26"/>
+      <word id="28" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="25"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="νῦν" lemma="νῦν" postag="d--------" relation="AuxZ" head="12"/>
+      <word id="2" form="δʼ" lemma="δʼ" postag="c--------" relation="AuxC" head="0"/>
+      <word id="3" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="4"/>
+      <word id="4" form="ῥᾴδιον" lemma="ῥᾴδιος" postag="a-s---nn-" relation="PNOM"
+            head="12"/>
+      <word id="5" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="10"/>
+      <word id="6" form="χρόνῳ" lemma="χρόνος" postag="n-s---md-" relation="OBJ" head="5"/>
+      <word id="7" form="ὀλίγῳ" lemma="ὀλίγος" postag="a-s---md-" relation="ATR" head="6"/>
+      <word id="8" form="μεγάλας" lemma="μέγας" postag="a-p---fa-" relation="ATR" head="9"/>
+      <word id="9" form="διαβολὰς" lemma="διαβολή" postag="n-p---fa-" relation="OBJ"
+            head="10"/>
+      <word id="10" form="ἀπολύεσθαι" lemma="ἀπολύω" postag="v--pne---" relation="OBJ"
+            head="12"/>
+      <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="12" insertion_id="0004e" artificial="elliptic" relation="PRED" form="[0]"
+            head="2"/>
+   </sentence>
+   <sentence id="26"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="πεπεισμένος" lemma="πείθω" postag="v-srpemn-" relation="ATR"
+            head="7"/>
+      <word id="2" form="δὴ" lemma="δή" postag="d--------" relation="AuxZ" head="1"/>
+      <word id="3" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="7"/>
+      <word id="4" form="μηδένα" lemma="μηδείς" postag="p-s---ma-" relation="SBJ" head="5"/>
+      <word id="5" form="ἀδικεῖν" lemma="ἀδικέω" postag="v--pna---" relation="OBJ" head="1"/>
+      <word id="6" form="πολλοῦ" lemma="πολύς" postag="a-s---mg-" relation="ADV" head="7"/>
+      <word id="7" form="δέω" lemma="δέω2" postag="v1spia---" relation="PRED" head="0"/>
+      <word id="8" form="ἐμαυτόν" lemma="ἐμαυτοῦ" postag="p-s---ma-" relation="OBJ"
+            head="10"/>
+      <word id="9" form="γε" lemma="γε" postag="d--------" relation="AuxY" head="7"/>
+      <word id="10" form="ἀδικήσειν" lemma="ἀδικέω" postag="v--fna---" relation="OBJ_CO"
+            head="11"/>
+      <word id="11" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="7"/>
+      <word id="12" form="κατʼ" lemma="κατʼ" postag="r--------" relation="AuxP" head="14"/>
+      <word id="13" form="ἐμαυτοῦ" lemma="ἐμαυτοῦ" postag="p-s---mg-" relation="OBJ"
+            head="12"/>
+      <word id="14" form="ἐρεῖν" lemma="ἐρῶ" postag="v--fna---" relation="OBJ_CO" head="11"/>
+      <word id="15" form="αὐτὸς" lemma="αὐτός" postag="p-s---mn-" relation="PNOM" head="18"/>
+      <word id="16" form="ὡς" lemma="ὡς" postag="c--------" relation="ADV" head="18"/>
+      <word id="17" form="ἄξιός" lemma="ἄξιος" postag="a-s---mn-" relation="ATR" head="15"/>
+      <word id="18" form="εἰμί" lemma="εἰμί" postag="v1spia---" relation="OBJ" head="14"/>
+      <word id="19" form="του" lemma="τις" postag="p-s----g-" relation="ATR" head="20"/>
+      <word id="20" form="κακοῦ" lemma="κακός" postag="a-s---mg-" relation="OBJ" head="17"/>
+      <word id="21" form="καὶ" lemma="καί" postag="c--------" relation="AuxY" head="11"/>
+      <word id="22" form="τιμήσεσθαι" lemma="τιμέω" postag="v--fnm---" relation="OBJ_CO"
+            head="11"/>
+      <word id="23" form="τοιούτου" lemma="τοιοῦτος" postag="p-s---mg-" relation="OBJ"
+            head="22"/>
+      <word id="24" form="τινὸς" lemma="τις" postag="p-s----g-" relation="ATR" head="23"/>
+      <word id="25" form="ἐμαυτῷ" lemma="ἐμαυτοῦ" postag="p-s---md-" relation="OBJ"
+            head="22"/>
+      <word id="26" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="27"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="τί" lemma="τις" postag="p-s---na-" relation="OBJ" head="2"/>
+      <word id="2" form="δείσας" lemma="δείδω" postag="v-sapamn-" relation="PRED" head="0"/>
+      <word id="3" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="28"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ἦ" lemma="ἠμί" postag="v3siia---" relation="OBJ" head="3"/>
+      <word id="2" form="μὴ" lemma="μή" postag="c--------" relation="AuxZ" head="3"/>
+      <word id="3" form="πάθω" lemma="πάσχω" postag="v1sasa---" relation="PRED_CO" head="9"/>
+      <word id="4" form="τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="OBJ" head="3"/>
+      <word id="5" form="οὗ" lemma="οὗ" postag="d--------" relation="AuxZ" head="8"/>
+      <word id="6" form="Μέλητός" lemma="Μέλητος" postag="n-s---mn-" relation="SBJ"
+            head="8"/>
+      <word id="7" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="8"/>
+      <word id="8" form="τιμᾶται" lemma="τιμάω" postag="v3spse---" relation="ATR" head="4"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
+      <word id="10" form="ὅ" lemma="ὅς" postag="p-s---na-" relation="OBJ" head="11"/>
+      <word id="11" form="φημι" lemma="φημί" postag="v1spia---" relation="PRED_CO" head="9"/>
+      <word id="12" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="13"/>
+      <word id="13" form="εἰδέναι" lemma="οἶδα" postag="v--rna---" relation="OBJ" head="11"/>
+      <word id="14" form="οὔτʼ" lemma="οὔτʼ" postag="d--------" relation="COORD" head="20"/>
+      <word id="15" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="14"/>
+      <word id="16" form="ἀγαθὸν" lemma="ἀγαθός" postag="a-s---ma-" relation="OCOMP_CO"
+            head="15"/>
+      <word id="17" form="οὔτʼ" lemma="οὔτʼ" postag="d--------" relation="AuxY" head="14"/>
+      <word id="18" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="14"/>
+      <word id="19" form="κακόν" lemma="κακός" postag="a-s---ma-" relation="OCOMP_CO"
+            head="18"/>
+      <word id="20" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="OBJ" head="13"/>
+      <word id="21" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="29"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ἀντὶ" lemma="ἀντί" postag="r--------" relation="ADV" head="4"/>
+      <word id="2" form="τούτου" lemma="οὗτος" postag="p-s---ng-" relation="OBJ" head="4"/>
+      <word id="3" form="δὴ" lemma="δή" postag="d--------" relation="AuxY" head="4"/>
+      <word id="4" form="ἕλωμαι" lemma="αἱρέω" postag="v1sasm---" relation="PRED_CO"
+            head="14"/>
+      <word id="5" form="ὧν" lemma="ὅς" postag="p-p---mg-" relation="SBJ" head="4"/>
+      <word id="6" form="εὖ" lemma="εὖ" postag="d--------" relation="AuxZ" head="7"/>
+      <word id="7" form="οἶδά" lemma="οἶδα" postag="v1sria---" relation="ATR" head="8"/>
+      <word id="8" form="τι" lemma="τις" postag="p-s---na-" relation="OBJ" head="4"/>
+      <word id="9" form="κακῶν" lemma="κακός" postag="a-p---mg-" relation="OBJ" head="7"/>
+      <word id="10" form="ὄντων" lemma="εἰμί" postag="v-pppamg-" relation="ATR" head="9"/>
+      <word id="11" form="τούτου" lemma="οὗτος" postag="p-s---mg-" relation="OBJ" head="12"/>
+      <word id="12" form="τιμησάμενος" lemma="τιμάω" postag="v-sapmmn-" relation="PRED_CO"
+            head="14"/>
+      <word id="13" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="14" insertion_id="0010e" artificial="elliptic" relation="COORD" form="[0]"
+            head="0"/>
+   </sentence>
+   <sentence id="30"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="πότερον" lemma="πότερος" postag="a-s---ma-" relation="ATR"
+            head="4"/>
+      <word id="2" form="δεσμοῦ" lemma="δεσμός" postag="n-s---mg-" relation="OBJ" head="4"/>
+      <word id="3" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="4" insertion_id="0002e" artificial="elliptic" relation="PRED" form="[0]"
+            head="0"/>
+   </sentence>
+   <sentence id="31"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="καὶ" lemma="καί" postag="c--------" relation="AuxC" head="0"/>
+      <word id="2" form="τί" lemma="τίς" postag="x-s---nn-" relation="AuxY" head="4"/>
+      <word id="3" form="με" lemma="ἐγώ" postag="p1s---ma-" relation="SBJ" head="5"/>
+      <word id="4" form="δεῖ" lemma="δέω2" postag="v3spia---" relation="PRED" head="1"/>
+      <word id="5" form="ζῆν" lemma="ζάω" postag="v--pna---" relation="OBJ" head="4"/>
+      <word id="6" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="5"/>
+      <word id="7" form="δεσμωτηρίῳ" lemma="δεσμωτήριον" postag="n-s---nd-" relation="OBJ"
+            head="6"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="9"/>
+      <word id="9" form="δουλεύοντα" lemma="δουλεύω" postag="v-sppama-" relation="ATR"
+            head="3"/>
+      <word id="10" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="13"/>
+      <word id="11" form="ἀεὶ" lemma="ἀεί" postag="d--------" relation="ADV" head="9"/>
+      <word id="12" form="καθισταμένῃ" lemma="καθίστημι" postag="v-sppefd-" relation="ATR"
+            head="13"/>
+      <word id="13" form="ἀρχῇ" lemma="ἀρχή" postag="n-s---fd-" relation="OBJ_AP" head="14"/>
+      <word id="14" form="," lemma="punc1" postag="u--------" relation="APOS" head="9"/>
+      <word id="15" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="16"/>
+      <word id="16" form="ἕνδεκα" lemma="ἕνδεκα" postag="a--------" relation="OBJ_AP"
+            head="14"/>
+      <word id="17" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="32"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ἀλλὰ" lemma="ἀλλά" postag="d--------" relation="ADV" head="4"/>
+      <word id="2" form="χρημάτων" lemma="χρῆμα" postag="n-p---ng-" relation="OBJ" head="4"/>
+      <word id="3" form="καὶ" lemma="καί" postag="c--------" relation="AuxC" head="0"/>
+      <word id="4" form="δεδέσθαι" lemma="δέω1" postag="v--rne---" relation="PRED" head="3"/>
+      <word id="5" form="ἕως" lemma="ἕως" postag="c--------" relation="AuxC" head="4"/>
+      <word id="6" form="ἂν" lemma="ἄν2" postag="c--------" relation="AuxZ" head="7"/>
+      <word id="7" form="ἐκτείσω" lemma="ἐκτίνω" postag="v1sasa---" relation="ADV" head="5"/>
+      <word id="8" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="33"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ἀλλὰ" lemma="ἀλλὰ" postag="c--------" relation="AuxC" head="0"/>
+      <word id="2" form="ταὐτόν" lemma="ταὐτός" postag="a-s---nn-" relation="SBJ" head="4"/>
+      <word id="3" form="μοί" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="4"/>
+      <word id="4" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="PRED" head="1"/>
+      <word id="5" form="ὅπερ" lemma="ὅσπερ" postag="p-s---nn-" relation="OBJ" head="7"/>
+      <word id="6" form="νυνδὴ" lemma="νυνδί" postag="d--------" relation="ADV" head="7"/>
+      <word id="7" form="ἔλεγον" lemma="λέγω3" postag="v3piia---" relation="ATR" head="2"/>
+      <word id="8" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="34"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="3"/>
+      <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3"/>
+      <word id="3" form="ἔστι" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="4" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="3"/>
+      <word id="5" form="χρήματα" lemma="χρῆμα" postag="n-p---nn-" relation="SBJ" head="3"/>
+      <word id="6" form="ὁπόθεν" lemma="ὁπόθεν" postag="d--------" relation="ADV" head="5"/>
+      <word id="7" form="ἐκτείσω" lemma="ἐκτίνω" postag="v1sasa---" relation="PRED"
+            head="6"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="35"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ἀλλὰ" lemma="ἀλλὰ" postag="c--------" relation="AuxC" head="0"/>
+      <word id="2" form="δὴ" lemma="δή" postag="d--------" relation="AuxZ" head="4"/>
+      <word id="3" form="φυγῆς" lemma="φυγή" postag="n-s---fg-" relation="OBJ" head="4"/>
+      <word id="4" form="τιμήσωμαι" lemma="τιμάω" postag="v1sasm---" relation="PRED"
+            head="1"/>
+      <word id="5" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="36"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ἴσως" lemma="ἴσως" postag="d--------" relation="ADV" head="6"/>
+      <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="6"/>
+      <word id="3" form="ἄν" lemma="ἄν2" postag="c--------" relation="AuxZ" head="6"/>
+      <word id="4" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="6"/>
+      <word id="5" form="τούτου" lemma="οὗτος" postag="p-s---ng-" relation="OBJ" head="6"/>
+      <word id="6" form="τιμήσαιτε" lemma="τιμάω" postag="v2paoa---" relation="PRED"
+            head="0"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="37"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="πολλὴ" lemma="πολύς" postag="a-s---fn-" relation="ATR" head="4"/>
+      <word id="2" form="μεντἄν" lemma="μέντοι" postag="d--------" relation="AuxZ" head="5"/>
+      <word id="3" form="με" lemma="ἐγώ" postag="p1s---ma-" relation="OBJ" head="5"/>
+      <word id="4" form="φιλοψυχία" lemma="φιλοψυχία" postag="n-s---fn-" relation="SBJ"
+            head="5"/>
+      <word id="5" form="ἔχοι" lemma="ἔχω" postag="v3spoa---" relation="PRED" head="0"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="8"/>
+      <word id="7" form="ὦ" lemma="ὦ" postag="i--------" relation="AuxZ" head="8"/>
+      <word id="8" form="ἄνδρες" lemma="ἀνήρ" postag="n-p---mv-" relation="ExD" head="5"/>
+      <word id="9" form="Ἀθηναῖοι" lemma="Ἀθηναῖος" postag="a-p---mv-" relation="ATR"
+            head="8"/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="8"/>
+      <word id="11" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="5"/>
+      <word id="12" form="οὕτως" lemma="οὕτως" postag="d--------" relation="ADV" head="13"/>
+      <word id="13" form="ἀλόγιστός" lemma="ἀλόγιστος" postag="a-s---mn-" relation="PNOM"
+            head="14"/>
+      <word id="14" form="εἰμι" lemma="εἰμί" postag="v1spia---" relation="PRED" head="11"/>
+      <word id="15" form="ὥστε" lemma="ὥστε" postag="d--------" relation="AuxC" head="13"/>
+      <word id="16" form="μὴ" lemma="μή" postag="c--------" relation="AuxZ" head="17"/>
+      <word id="17" form="δύνασθαι" lemma="δύναμαι" postag="v--pne---" relation="ADV"
+            head="15"/>
+      <word id="18" form="λογίζεσθαι" lemma="λογίζομαι" postag="v--pne---" relation="OBJ"
+            head="17"/>
+      <word id="19" form="ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" head="18"/>
+      <word id="20" form="ὑμεῖς" lemma="σύ" postag="p2p----n-" relation="SBJ" head="28"/>
+      <word id="21" form="μὲν" lemma="μέν" postag="d--------" relation="AuxZ" head="22"/>
+      <word id="22" form="ὄντες" lemma="εἰμί" postag="v-pppamn-" relation="ATR" head="20"/>
+      <word id="23" form="πολῖταί" lemma="πολίτης" postag="n-p---mn-" relation="PNOM"
+            head="22"/>
+      <word id="24" form="μου" lemma="ἐγώ" postag="p1s---mg-" relation="OBJ" head="23"/>
+      <word id="25" form="οὐχ" lemma="οὐ" postag="d--------" relation="AuxZ" head="26"/>
+      <word id="26" form="οἷοί" lemma="οἷος" postag="a-p---mn-" relation="ATR" head="20"/>
+      <word id="27" form="τε" lemma="τε" postag="d--------" relation="AuxZ" head="26"/>
+      <word id="28" form="ἐγένεσθε" lemma="γίγνομαι" postag="v2paim---" relation="ADV"
+            head="19"/>
+      <word id="29" form="ἐνεγκεῖν" lemma="φέρω" postag="v--ana---" relation="OBJ"
+            head="26"/>
+      <word id="30" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="32"/>
+      <word id="31" form="ἐμὰς" lemma="ἐμός" postag="a-p---fa-" relation="ATR" head="32"/>
+      <word id="32" form="διατριβὰς" lemma="διατριβή" postag="n-p---fa-" relation="OBJ_CO"
+            head="33"/>
+      <word id="33" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="29"/>
+      <word id="34" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="35"/>
+      <word id="35" form="λόγους" lemma="λόγος" postag="n-p---ma-" relation="OBJ_CO"
+            head="33"/>
+      <word id="36" form="," lemma="punc1" postag="u--------" relation="AuxX" head="33"/>
+      <word id="37" form="ἀλλʼ" lemma="ἀλλʼ" postag="d--------" relation="AuxC" head="33"/>
+      <word id="38" form="ὑμῖν" lemma="σύ" postag="p2p----d-" relation="OBJ" head="41"/>
+      <word id="39" form="βαρύτεραι" lemma="βαρύς" postag="a-p---fn-" relation="OCOMP_CO"
+            head="41"/>
+      <word id="40" form="γεγόνασιν" lemma="γίγνομαι" postag="v3pria---" relation="ATR"
+            head="37"/>
+      <word id="41" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="40"/>
+      <word id="42" form="ἐπιφθονώτεραι" lemma="ἐπίφθονος" postag="a-p---fnc"
+            relation="OCOMP_CO"
+            head="41"/>
+      <word id="43" form="," lemma="punc1" postag="u--------" relation="AuxX" head="40"/>
+      <word id="44" form="ὥστε" lemma="ὥστε" postag="d--------" relation="AuxC" head="41"/>
+      <word id="45" form="ζητεῖτε" lemma="ζητέω" postag="v2ppia---" relation="ADV"
+            head="44"/>
+      <word id="46" form="αὐτῶν" lemma="αὐτός" postag="p-p---mg-" relation="OBJ" head="48"/>
+      <word id="47" form="νυνὶ" lemma="νυνί" postag="d--------" relation="AuxZ" head="45"/>
+      <word id="48" form="ἀπαλλαγῆναι" lemma="ἀπαλλάσσω" postag="v--anp---" relation="OBJ"
+            head="45"/>
+      <word id="49" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="38"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ἄλλοι" lemma="ἄλλος" postag="p-p---mn-" relation="SBJ" head="5"/>
+      <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxC" head="0"/>
+      <word id="3" form="ἄρα" lemma="ἄρα" postag="d--------" relation="AuxY" head="5"/>
+      <word id="4" form="αὐτὰς" lemma="αὐτός" postag="p-p---fa-" relation="OBJ" head="5"/>
+      <word id="5" form="οἴσουσι" lemma="φέρω" postag="v3pfia---" relation="PRED" head="2"/>
+      <word id="6" form="ῥᾳδίως" lemma="ῥᾳδίως" postag="d--------" relation="ADV" head="5"/>
+      <word id="7" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="39"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="πολλοῦ" lemma="πολύς" postag="a-s---ng-" relation="OBJ" head="3"/>
+      <word id="2" form="γε" lemma="γε" postag="d--------" relation="AuxY" head="3"/>
+      <word id="3" form="δεῖ" lemma="δέω2" postag="v3spia---" relation="PRED" head="0"/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="6"/>
+      <word id="5" form="ὦ" lemma="ὦ" postag="i--------" relation="AuxZ" head="6"/>
+      <word id="6" form="ἄνδρες" lemma="ἀνήρ" postag="n-p---mv-" relation="ExD" head="3"/>
+      <word id="7" form="Ἀθηναῖοι" lemma="Ἀθηναῖος" postag="a-p---mv-" relation="ATR"
+            head="6"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="40"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="καλὸς" lemma="καλός" postag="a-s---mn-" relation="ATR" head="6"/>
+      <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="7"/>
+      <word id="3" form="ἄν" lemma="ἄν2" postag="c--------" relation="AuxZ" head="7"/>
+      <word id="4" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="7"/>
+      <word id="5" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="6"/>
+      <word id="6" form="βίος" lemma="βίος" postag="n-s---mn-" relation="SBJ" head="7"/>
+      <word id="7" form="εἴη" lemma="εἰμί" postag="v3spoa---" relation="PRED" head="0"/>
+      <word id="8" form="ἐξελθόντι" lemma="ἐξέρχομαι" postag="v-sapamd-" relation="ATR"
+            head="4"/>
+      <word id="9" form="τηλικῷδε" lemma="τηλικόσδε" postag="a-s---md-" relation="ATR"
+            head="10"/>
+      <word id="10" form="ἀνθρώπῳ" lemma="ἄνθρωπος" postag="n-s---md-" relation="OBJ"
+            head="8"/>
+      <word id="11" form="ἄλλην" lemma="ἄλλος" postag="p-s---fa-" relation="OBJ" head="15"/>
+      <word id="12" form="ἐξ" lemma="ἐκ" postag="r--------" relation="AuxP" head="15"/>
+      <word id="13" form="ἄλλης" lemma="ἄλλος" postag="p-s---fg-" relation="ATR" head="14"/>
+      <word id="14" form="πόλεως" lemma="πόλις" postag="n-s---fg-" relation="OBJ" head="12"/>
+      <word id="15" form="ἀμειβομένῳ" lemma="ἀμείβω" postag="v-sppemd-" relation="ATR_CO"
+            head="16"/>
+      <word id="16" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="4"/>
+      <word id="17" form="ἐξελαυνομένῳ" lemma="ἐξελαύνω" postag="v-sppemd-"
+            relation="ATR_CO"
+            head="16"/>
+      <word id="18" form="ζῆν" lemma="ζάω" postag="v--pna---" relation="OBJ" head="17"/>
+      <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="41"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="εὖ" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="γὰρ" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="οἶδʼ" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="ὅτι" lemma="" postag="" relation="nil" head=""/>
+      <word id="5" form="ὅποι" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="ἂν" lemma="" postag="" relation="nil" head=""/>
+      <word id="7" form="ἔλθω" lemma="" postag="" relation="nil" head=""/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="λέγοντος" lemma="" postag="" relation="nil" head=""/>
+      <word id="10" form="ἐμοῦ" lemma="" postag="" relation="nil" head=""/>
+      <word id="11" form="ἀκροάσονται" lemma="" postag="" relation="nil" head=""/>
+      <word id="12" form="οἱ" lemma="" postag="" relation="nil" head=""/>
+      <word id="13" form="νέοι" lemma="" postag="" relation="nil" head=""/>
+      <word id="14" form="ὥσπερ" lemma="" postag="" relation="nil" head=""/>
+      <word id="15" form="ἐνθάδε" lemma="" postag="" relation="nil" head=""/>
+      <word id="16" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="42"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="κ-" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="ἂν" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="μὲν" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="τούτους" lemma="" postag="" relation="nil" head=""/>
+      <word id="5" form="ἀπελαύνω" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="οὗτοί" lemma="" postag="" relation="nil" head=""/>
+      <word id="8" form="με" lemma="" postag="" relation="nil" head=""/>
+      <word id="9" form="αὐτοὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="10" form="ἐξελῶσι" lemma="" postag="" relation="nil" head=""/>
+      <word id="11" form="πείθοντες" lemma="" postag="" relation="nil" head=""/>
+      <word id="12" form="τοὺς" lemma="" postag="" relation="nil" head=""/>
+      <word id="13" form="πρεσβυτέρους" lemma="" postag="" relation="nil" head=""/>
+      <word id="14" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="43"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ἐὰν" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="δὲ" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="μὴ" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="ἀπελαύνω" lemma="" postag="" relation="nil" head=""/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="6" form="οἱ" lemma="" postag="" relation="nil" head=""/>
+      <word id="7" form="τούτων" lemma="" postag="" relation="nil" head=""/>
+      <word id="8" form="πατέρες" lemma="" postag="" relation="nil" head=""/>
+      <word id="9" form="δὲ" lemma="" postag="" relation="nil" head=""/>
+      <word id="10" form="καὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="11" form="οἰκεῖοι" lemma="" postag="" relation="nil" head=""/>
+      <word id="12" form="διʼ" lemma="" postag="" relation="nil" head=""/>
+      <word id="13" form="αὐτοὺς" lemma="" postag="" relation="nil" head=""/>
+      <word id="14" form="τούτους" lemma="" postag="" relation="nil" head=""/>
+      <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="44"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ἴσως" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="οὖν" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="ἄν" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="τις" lemma="" postag="" relation="nil" head=""/>
+      <word id="5" form="εἴποι" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="45"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="“σιγῶν" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="δὲ" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="καὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="ἡσυχίαν" lemma="" postag="" relation="nil" head=""/>
+      <word id="5" form="ἄγων" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="ὦ" lemma="" postag="" relation="nil" head=""/>
+      <word id="8" form="Σώκρατες" lemma="" postag="" relation="nil" head=""/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="οὐχ" lemma="" postag="" relation="nil" head=""/>
+      <word id="11" form="οἷός" lemma="" postag="" relation="nil" head=""/>
+      <word id="12" form="τʼ" lemma="" postag="" relation="nil" head=""/>
+      <word id="13" form="ἔσῃ" lemma="" postag="" relation="nil" head=""/>
+      <word id="14" form="ἡμῖν" lemma="" postag="" relation="nil" head=""/>
+      <word id="15" form="ἐξελθὼν" lemma="" postag="" relation="nil" head=""/>
+      <word id="16" form="ζῆν" lemma="" postag="" relation="nil" head=""/>
+      <word id="17" form=";" lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="18" form="”" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="46"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="τουτὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="δή" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="ἐστι" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="πάντων" lemma="" postag="" relation="nil" head=""/>
+      <word id="5" form="χαλεπώτατον" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="πεῖσαί" lemma="" postag="" relation="nil" head=""/>
+      <word id="7" form="τινας" lemma="" postag="" relation="nil" head=""/>
+      <word id="8" form="ὑμῶν" lemma="" postag="" relation="nil" head=""/>
+      <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="47"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ἐάντε" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="γὰρ" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="λέγω" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="ὅτι" lemma="" postag="" relation="nil" head=""/>
+      <word id="5" form="τῷ" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="θεῷ" lemma="" postag="" relation="nil" head=""/>
+      <word id="7" form="ἀπειθεῖν" lemma="" postag="" relation="nil" head=""/>
+      <word id="8" form="τοῦτʼ" lemma="" postag="" relation="nil" head=""/>
+      <word id="9" form="ἐστὶν" lemma="" postag="" relation="nil" head=""/>
+      <word id="10" form="καὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="11" form="διὰ" lemma="" postag="" relation="nil" head=""/>
+      <word id="12" form="τοῦτʼ" lemma="" postag="" relation="nil" head=""/>
+      <word id="13" form="ἀδύνατον" lemma="" postag="" relation="nil" head=""/>
+      <word id="14" form="ἡσυχίαν" lemma="" postag="" relation="nil" head=""/>
+      <word id="15" form="ἄγειν" lemma="" postag="" relation="nil" head=""/>
+      <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="17" form="οὐ" lemma="" postag="" relation="nil" head=""/>
+      <word id="18" form="πείσεσθέ" lemma="" postag="" relation="nil" head=""/>
+      <word id="19" form="μοι" lemma="" postag="" relation="nil" head=""/>
+      <word id="20" form="ὡς" lemma="" postag="" relation="nil" head=""/>
+      <word id="21" form="εἰρωνευομένῳ" lemma="" postag="" relation="nil" head=""/>
+      <word id="22" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="48"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ἐάντʼ" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="αὖ" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="λέγω" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="ὅτι" lemma="" postag="" relation="nil" head=""/>
+      <word id="5" form="καὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="τυγχάνει" lemma="" postag="" relation="nil" head=""/>
+      <word id="7" form="μέγιστον" lemma="" postag="" relation="nil" head=""/>
+      <word id="8" form="ἀγαθὸν" lemma="" postag="" relation="nil" head=""/>
+      <word id="9" form="ὂν" lemma="" postag="" relation="nil" head=""/>
+      <word id="10" form="ἀνθρώπῳ" lemma="" postag="" relation="nil" head=""/>
+      <word id="11" form="τοῦτο" lemma="" postag="" relation="nil" head=""/>
+      <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="13" form="ἑκάστης" lemma="" postag="" relation="nil" head=""/>
+      <word id="14" form="ἡμέρας" lemma="" postag="" relation="nil" head=""/>
+      <word id="15" form="περὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="16" form="ἀρετῆς" lemma="" postag="" relation="nil" head=""/>
+      <word id="17" form="τοὺς" lemma="" postag="" relation="nil" head=""/>
+      <word id="18" form="λόγους" lemma="" postag="" relation="nil" head=""/>
+      <word id="19" form="ποιεῖσθαι" lemma="" postag="" relation="nil" head=""/>
+      <word id="20" form="καὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="21" form="τῶν" lemma="" postag="" relation="nil" head=""/>
+      <word id="22" form="ἄλλων" lemma="" postag="" relation="nil" head=""/>
+      <word id="23" form="περὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="24" form="ὧν" lemma="" postag="" relation="nil" head=""/>
+      <word id="25" form="ὑμεῖς" lemma="" postag="" relation="nil" head=""/>
+      <word id="26" form="ἐμοῦ" lemma="" postag="" relation="nil" head=""/>
+      <word id="27" form="ἀκούετε" lemma="" postag="" relation="nil" head=""/>
+      <word id="28" form="διαλεγομένου" lemma="" postag="" relation="nil" head=""/>
+      <word id="29" form="καὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="30" form="ἐμαυτὸν" lemma="" postag="" relation="nil" head=""/>
+      <word id="31" form="καὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="32" form="ἄλλους" lemma="" postag="" relation="nil" head=""/>
+      <word id="33" form="ἐξετάζοντος" lemma="" postag="" relation="nil" head=""/>
+      <word id="34" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="35" form="ὁ" lemma="" postag="" relation="nil" head=""/>
+      <word id="36" form="δὲ" lemma="" postag="" relation="nil" head=""/>
+      <word id="37" form="ἀνεξέταστος" lemma="" postag="" relation="nil" head=""/>
+      <word id="38" form="βίος" lemma="" postag="" relation="nil" head=""/>
+      <word id="39" form="οὐ" lemma="" postag="" relation="nil" head=""/>
+      <word id="40" form="βιωτὸς" lemma="" postag="" relation="nil" head=""/>
+      <word id="41" form="ἀνθρώπῳ" lemma="" postag="" relation="nil" head=""/>
+      <word id="42" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="43" form="ταῦτα" lemma="" postag="" relation="nil" head=""/>
+      <word id="44" form="δʼ" lemma="" postag="" relation="nil" head=""/>
+      <word id="45" form="ἔτι" lemma="" postag="" relation="nil" head=""/>
+      <word id="46" form="ἧττον" lemma="" postag="" relation="nil" head=""/>
+      <word id="47" form="πείσεσθέ" lemma="" postag="" relation="nil" head=""/>
+      <word id="48" form="μοι" lemma="" postag="" relation="nil" head=""/>
+      <word id="49" form="λέγοντι" lemma="" postag="" relation="nil" head=""/>
+      <word id="50" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="49"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="τὰ" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="δὲ" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="ἔχει" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="μὲν" lemma="" postag="" relation="nil" head=""/>
+      <word id="5" form="οὕτως" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="ὡς" lemma="" postag="" relation="nil" head=""/>
+      <word id="8" form="ἐγώ" lemma="" postag="" relation="nil" head=""/>
+      <word id="9" form="φημι" lemma="" postag="" relation="nil" head=""/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="ὦ" lemma="" postag="" relation="nil" head=""/>
+      <word id="12" form="ἄνδρες" lemma="" postag="" relation="nil" head=""/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="14" form="πείθειν" lemma="" postag="" relation="nil" head=""/>
+      <word id="15" form="δὲ" lemma="" postag="" relation="nil" head=""/>
+      <word id="16" form="οὐ" lemma="" postag="" relation="nil" head=""/>
+      <word id="17" form="ῥᾴδιον" lemma="" postag="" relation="nil" head=""/>
+      <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="50"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="καὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="ἐγὼ" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="ἅμα" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="οὐκ" lemma="" postag="" relation="nil" head=""/>
+      <word id="5" form="εἴθισμαι" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="ἐμαυτὸν" lemma="" postag="" relation="nil" head=""/>
+      <word id="7" form="ἀξιοῦν" lemma="" postag="" relation="nil" head=""/>
+      <word id="8" form="κακοῦ" lemma="" postag="" relation="nil" head=""/>
+      <word id="9" form="οὐδενός" lemma="" postag="" relation="nil" head=""/>
+      <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="51"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="εἰ" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="μὲν" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="γὰρ" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="ἦν" lemma="" postag="" relation="nil" head=""/>
+      <word id="5" form="μοι" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="χρήματα" lemma="" postag="" relation="nil" head=""/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="ἐτιμησάμην" lemma="" postag="" relation="nil" head=""/>
+      <word id="9" form="ἂν" lemma="" postag="" relation="nil" head=""/>
+      <word id="10" form="χρημάτων" lemma="" postag="" relation="nil" head=""/>
+      <word id="11" form="ὅσα" lemma="" postag="" relation="nil" head=""/>
+      <word id="12" form="ἔμελλον" lemma="" postag="" relation="nil" head=""/>
+      <word id="13" form="ἐκτείσειν" lemma="" postag="" relation="nil" head=""/>
+      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="15" form="οὐδὲν" lemma="" postag="" relation="nil" head=""/>
+      <word id="16" form="γὰρ" lemma="" postag="" relation="nil" head=""/>
+      <word id="17" form="ἂν" lemma="" postag="" relation="nil" head=""/>
+      <word id="18" form="ἐβλάβην" lemma="" postag="" relation="nil" head=""/>
+      <word id="19" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="52"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="νῦν" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="δὲ" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="οὐ" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="γὰρ" lemma="" postag="" relation="nil" head=""/>
+      <word id="5" form="ἔστιν" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="εἰ" lemma="" postag="" relation="nil" head=""/>
+      <word id="8" form="μὴ" lemma="" postag="" relation="nil" head=""/>
+      <word id="9" form="ἄρα" lemma="" postag="" relation="nil" head=""/>
+      <word id="10" form="ὅσον" lemma="" postag="" relation="nil" head=""/>
+      <word id="11" form="ἂν" lemma="" postag="" relation="nil" head=""/>
+      <word id="12" form="ἐγὼ" lemma="" postag="" relation="nil" head=""/>
+      <word id="13" form="δυναίμην" lemma="" postag="" relation="nil" head=""/>
+      <word id="14" form="ἐκτεῖσαι" lemma="" postag="" relation="nil" head=""/>
+      <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="16" form="τοσούτου" lemma="" postag="" relation="nil" head=""/>
+      <word id="17" form="βούλεσθέ" lemma="" postag="" relation="nil" head=""/>
+      <word id="18" form="μοι" lemma="" postag="" relation="nil" head=""/>
+      <word id="19" form="τιμῆσαι" lemma="" postag="" relation="nil" head=""/>
+      <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="53"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="ἴσως" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="δʼ" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="ἂν" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="δυναίμην" lemma="" postag="" relation="nil" head=""/>
+      <word id="5" form="ἐκτεῖσαι" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="ὑμῖν" lemma="" postag="" relation="nil" head=""/>
+      <word id="7" form="που" lemma="" postag="" relation="nil" head=""/>
+      <word id="8" form="μνᾶν" lemma="" postag="" relation="nil" head=""/>
+      <word id="9" form="ἀργυρίου" lemma="" postag="" relation="nil" head=""/>
+      <word id="10" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="54"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="τοσούτου" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="οὖν" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="τιμῶμαι" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="55"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="Πλάτων" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="δὲ" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="ὅδε" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="5" form="ὦ" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="ἄνδρες" lemma="" postag="" relation="nil" head=""/>
+      <word id="7" form="Ἀθηναῖοι" lemma="" postag="" relation="nil" head=""/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="καὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="10" form="Κρίτων" lemma="" postag="" relation="nil" head=""/>
+      <word id="11" form="καὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="12" form="Κριτόβουλος" lemma="" postag="" relation="nil" head=""/>
+      <word id="13" form="καὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="14" form="Ἀπολλόδωρος" lemma="" postag="" relation="nil" head=""/>
+      <word id="15" form="κελεύουσί" lemma="" postag="" relation="nil" head=""/>
+      <word id="16" form="με" lemma="" postag="" relation="nil" head=""/>
+      <word id="17" form="τριάκοντα" lemma="" postag="" relation="nil" head=""/>
+      <word id="18" form="μνῶν" lemma="" postag="" relation="nil" head=""/>
+      <word id="19" form="τιμήσασθαι" lemma="" postag="" relation="nil" head=""/>
+      <word id="20" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="21" form="αὐτοὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="22" form="δʼ" lemma="" postag="" relation="nil" head=""/>
+      <word id="23" form="ἐγγυᾶσθαι" lemma="" postag="" relation="nil" head=""/>
+      <word id="24" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="56"
+             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
+             subdoc="36a-38b"
+             span="">
+      <word id="1" form="τιμῶμαι" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="οὖν" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="τοσούτου" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="5" form="ἐγγυηταὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="δὲ" lemma="" postag="" relation="nil" head=""/>
+      <word id="7" form="ὑμῖν" lemma="" postag="" relation="nil" head=""/>
+      <word id="8" form="ἔσονται" lemma="" postag="" relation="nil" head=""/>
+      <word id="9" form="τοῦ" lemma="" postag="" relation="nil" head=""/>
+      <word id="10" form="ἀργυρίου" lemma="" postag="" relation="nil" head=""/>
+      <word id="11" form="οὗτοι" lemma="" postag="" relation="nil" head=""/>
+      <word id="12" form="ἀξιόχρεῳ" lemma="" postag="" relation="nil" head=""/>
+      <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
